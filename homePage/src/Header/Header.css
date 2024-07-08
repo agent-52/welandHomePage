@@ -1,0 +1,18 @@
+.explore{
+  width: fit-content;
+  background-color: #03e5b7;
+  background-image: linear-gradient(315deg, #03e5b7 0%, #037ade 74%);
+  display: grid;
+  place-items: center;
+  padding: 0.3rem 1.3rem;
+  border-radius: 1rem;
+  box-sizing: border-box;
+}
+.logo{
+  font-size: 1.5rem;
+}
+.header{
+  padding-block: 1rem;
+  backdrop-filter: blur(0.5rem);
+  position: sticky;
+}
