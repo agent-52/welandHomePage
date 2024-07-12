@@ -7,7 +7,7 @@ const Header = () =>{
   return(
     <div className="header text-slate-12 text-sm flex justify-between gap1 align-center">
       <div className="logo font-medium">WeLand</div>
-      <div className="hNav text-slate-11 flex gap2">
+      <div className="hNav text-slate-11 flex gap2 font-medium">
         <div>Vision</div>
         <div>Features</div>
         <div>Team</div>
