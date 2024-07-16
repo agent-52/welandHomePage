@@ -7,6 +7,7 @@ import * as dat from 'lil-gui'
  */
 // Debug
 const gui = new dat.GUI()
+gui.hide()
 
 // Canvas
 const canvas = document.querySelector('canvas.webgl')
